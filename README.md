@@ -1,4 +1,6 @@
 [![checkov](https://raw.githubusercontent.com/bridgecrewio/checkov/master/docs/web/images/checkov_by_bridgecrew.png)](#)
+
+[![IaC](https://app.soluble.cloud/api/v1/public/badges/bb243269-aa2e-4e49-8f49-62ea405c37d9.svg)](https://app.soluble.cloud/repos/details/github.com/bhuvi11/checkov)  [![HIPAA](https://app.soluble.cloud/api/v1/public/badges/9ab94185-0105-4194-a35f-55432579b387.svg)](https://app.soluble.cloud/repos/details/github.com/bhuvi11/checkov)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/dfa59580-5ffd-4230-9873-212a45658525.svg)](https://app.soluble.cloud/repos/details/github.com/bhuvi11/checkov)  
        
 [![Maintained by Bridgecrew.io](https://img.shields.io/badge/maintained%20by-bridgecrew.io-blueviolet)](https://bridgecrew.io/?utm_source=github&utm_medium=organic_oss&utm_campaign=checkov)
 [![build status](https://github.com/bridgecrewio/checkov/workflows/build/badge.svg)](https://github.com/bridgecrewio/checkov/actions?query=workflow%3Abuild)
